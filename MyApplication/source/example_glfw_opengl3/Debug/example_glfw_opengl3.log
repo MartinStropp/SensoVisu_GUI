@@ -1,0 +1,19 @@
+﻿  imgui.cpp
+c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\..\imgui.cpp": No such file or directory
+  imgui_demo.cpp
+c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\..\imgui_demo.cpp": No such file or directory
+  imgui_draw.cpp
+c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\..\imgui_draw.cpp": No such file or directory
+  imgui_tables.cpp
+c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\..\imgui_tables.cpp": No such file or directory
+  imgui_widgets.cpp
+c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\..\imgui_widgets.cpp": No such file or directory
+  imgui_impl_glfw.cpp
+c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\..\backends\imgui_impl_glfw.cpp": No such file or directory
+  imgui_impl_opengl3.cpp
+c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\..\backends\imgui_impl_opengl3.cpp": No such file or directory
+  Application.cpp
+c:\users\martin\documents\fh technikum\3 semester\inno1\lol\example_glfw_opengl3\application.cpp(2): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "imgui.h": No such file or directory
+  main.cpp
+c:\users\martin\documents\fh technikum\3 semester\inno1\lol\example_glfw_opengl3\main.cpp(6): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "imgui.h": No such file or directory
+  Code wird generiert...
